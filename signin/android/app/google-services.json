@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223849884088",
+    "firebase_url": "https://leck-mich-5e4b7.firebaseio.com",
+    "project_id": "leck-mich-5e4b7",
+    "storage_bucket": "leck-mich-5e4b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223849884088:android:bee3fe1c5c2e2f5a48c74d",
+        "android_client_info": {
+          "package_name": "com.kedil.signin.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223849884088-hfuc3em2o29jp0g2tl2tjrikafqfuggs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ld3MBlGd4wMn5v6Sd_n9jYH1Zx9yB4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223849884088-hfuc3em2o29jp0g2tl2tjrikafqfuggs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
