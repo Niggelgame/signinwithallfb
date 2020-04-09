@@ -13,11 +13,11 @@
             }
         },
         "oauth_client": [{
-                "client_id": "223849884088-rho729dqhfc7m76p50fm06249d8pffiu.apps.googleusercontent.com",
+                "client_id": "223849884088-pulk8ghrhtuoj7481kshli2sgd7iunvd.apps.googleusercontent.com",
                 "client_type": 1,
                 "android_info": {
                     "package_name": "com.kedil.signin.signin",
-                    "certificate_hash": "2520f69ee795f76e170a23a15a842a4424d00c2e"
+                    "certificate_hash": "2714a0c3ea12fc354de1359f619df4e96f0cd7ad"
                 }
             },
             {
